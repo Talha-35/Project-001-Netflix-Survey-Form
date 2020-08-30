@@ -23,16 +23,18 @@ body {
 .title {
     text-align: center;
     font-weight: bolder ;
-    margin: 5px 80px 5px 80px;
+    margin:auto;
     padding: 5px 0px 0px 0px;
-    letter-spacing: 2px;
+    letter-spacing: 2px;    
 }
 
 #first-color {
     color: white;
     font-size: 43px;
     font-family: "Bowlby One SC", cursive;
-    letter-spacing: 2px;      
+    margin-bottom: -25px ;
+    letter-spacing: 2px;
+    margin-bottom: ;      
 }
 
 #second-color {
